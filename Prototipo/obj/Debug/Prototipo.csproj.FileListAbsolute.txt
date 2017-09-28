@@ -1,0 +1,16 @@
+C:\Users\Admin\Google Drive\Prototipo\Prototipo\obj\Debug\Prototipo.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Google Drive\Prototipo\Prototipo\obj\Debug\Prototipo.Main.resources
+C:\Users\Admin\Google Drive\Prototipo\Prototipo\obj\Debug\Prototipo.Properties.Resources.resources
+C:\Users\Admin\Google Drive\Prototipo\Prototipo\obj\Debug\Prototipo.csproj.GenerateResource.Cache
+C:\Users\Admin\Google Drive\Prototipo\Prototipo\bin\Debug\Prototipo.exe
+C:\Users\Admin\Google Drive\Prototipo\Prototipo\bin\Debug\Prototipo.pdb
+C:\Users\Admin\Google Drive\Prototipo\Prototipo\obj\Debug\Prototipo.exe
+C:\Users\Admin\Google Drive\Prototipo\Prototipo\obj\Debug\Prototipo.pdb
+C:\Users\Usuario\Google Drive\Prototipo\Prototipo\obj\Debug\Prototipo.exe
+C:\Users\Usuario\Google Drive\Prototipo\Prototipo\obj\Debug\Prototipo.pdb
+C:\Users\Usuario\Google Drive\Prototipo\Prototipo\bin\Debug\Prototipo.exe
+C:\Users\Usuario\Google Drive\Prototipo\Prototipo\bin\Debug\Prototipo.pdb
+C:\Users\Usuario\Google Drive\Prototipo\Prototipo\obj\Debug\Prototipo.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Google Drive\Prototipo\Prototipo\obj\Debug\Prototipo.Main.resources
+C:\Users\Usuario\Google Drive\Prototipo\Prototipo\obj\Debug\Prototipo.Properties.Resources.resources
+C:\Users\Usuario\Google Drive\Prototipo\Prototipo\obj\Debug\Prototipo.csproj.GenerateResource.Cache
