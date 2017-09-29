@@ -14,3 +14,11 @@ C:\Users\Usuario\Google Drive\Prototipo\Prototipo\obj\Debug\Prototipo.csprojReso
 C:\Users\Usuario\Google Drive\Prototipo\Prototipo\obj\Debug\Prototipo.Main.resources
 C:\Users\Usuario\Google Drive\Prototipo\Prototipo\obj\Debug\Prototipo.Properties.Resources.resources
 C:\Users\Usuario\Google Drive\Prototipo\Prototipo\obj\Debug\Prototipo.csproj.GenerateResource.Cache
+C:\Users\gama_\proyectos\Prototipo\Prototipo\bin\Debug\Prototipo.exe
+C:\Users\gama_\proyectos\Prototipo\Prototipo\bin\Debug\Prototipo.pdb
+C:\Users\gama_\proyectos\Prototipo\Prototipo\obj\Debug\Prototipo.csprojResolveAssemblyReference.cache
+C:\Users\gama_\proyectos\Prototipo\Prototipo\obj\Debug\Prototipo.Main.resources
+C:\Users\gama_\proyectos\Prototipo\Prototipo\obj\Debug\Prototipo.Properties.Resources.resources
+C:\Users\gama_\proyectos\Prototipo\Prototipo\obj\Debug\Prototipo.csproj.GenerateResource.Cache
+C:\Users\gama_\proyectos\Prototipo\Prototipo\obj\Debug\Prototipo.exe
+C:\Users\gama_\proyectos\Prototipo\Prototipo\obj\Debug\Prototipo.pdb

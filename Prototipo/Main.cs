@@ -14,6 +14,8 @@ namespace Prototipo
         public Main()
         {
             InitializeComponent();
+            //panelInicio.Visible = true;
+            //panelMenu.Visible = false;
         }
         public const int WM_NCLBUTTONDOWN = 0xA1;
         public const int HT_CAPTION = 0x2;
@@ -33,11 +35,15 @@ namespace Prototipo
         private void btn_Home_Click(object sender, EventArgs e)
         {
             pan_Marca.Location = new Point(0, btn_Home.Location.Y);
+            panelInicio.Visible = true;
+            panelMenu.Visible = false;
         }
 
         private void btn_Menu_Click(object sender, EventArgs e)
         {
             pan_Marca.Location = new Point(0, btn_Menu.Location.Y);
+            panelInicio.Visible = false;
+            panelMenu.Visible = true;
         }
 
         private void btn_Ord_Click(object sender, EventArgs e)
@@ -69,6 +75,25 @@ namespace Prototipo
             }
         }
 
+        private void labelPrincipios_Click(object sender, EventArgs e)
+        {
+            panelPFuerte.Visible = false;
+            panelPostres.Visible = false;
+            panelPrincipios.Visible = true;
+        }
 
+        private void labelPFuerte_Click(object sender, EventArgs e)
+        {
+            panelPFuerte.Visible = true;
+            panelPostres.Visible = false;
+            panelPrincipios.Visible = false;
+        }
+
+        private void labelPostres_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            panelPostres.Visible = true;
+            panelPFuerte.Visible = false;
+            panelPrincipios.Visible = false;
+        }
     }
 }
